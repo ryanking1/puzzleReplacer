@@ -1,4 +1,4 @@
-# Pulle Replacer App
+# Puzzle Replacer App
 
 #### Creates a word puzzle from a sentence by removing vowels, February 12, 2016.
 
@@ -11,7 +11,7 @@ This was created as an Epicodus exercise in Behavior Driven Development, web app
 ## Setup/Installation Requirements
 
 * Clone this repository.
-* Make sure you have Gradle and Java installed.
+* Make sure you have Gradle, and Java installed.
 * In the top level of the cloned directory, run the following command in your terminal:
 
 `gradle run`
@@ -20,7 +20,7 @@ This was created as an Epicodus exercise in Behavior Driven Development, web app
 
 ## Technologies Used
 
-Java, Spark, Junit, FluentLenium Velocity, Bootstrap
+Java, Spark, Junit, FluentLenium, Velocity, Bootstrap
 
 ### License
 
